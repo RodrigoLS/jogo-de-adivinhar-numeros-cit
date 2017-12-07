@@ -1,0 +1,61 @@
+header#cabecalho nav ul li:hover {
+
+color: black;
+
+}
+
+
+header#cabecalho nav ul li a {
+
+	color: #FFF;
+	font-family: Comic Sans MS, Arial, Sans-serif;
+	height: 100%;
+
+}
+
+
+footer {
+	height: 75px;
+	width: 100%;
+	text-align: center;
+	position: absolute;
+	top: 100%;
+
+}
+
+footer p {
+
+	position: relative;
+	top: 25%;
+
+}
+
+
+section h1#nomeDoJogo {
+
+	font-family: Comic Sans MS, Arial Black, serif;
+	font-size: 2.5em;
+
+}
+
+
+.negrito {
+
+	font-weight: 900;
+
+}
+
+form label {
+
+	color: black;
+	font-size: 1.5em;
+
+}
+
+
+input {
+
+	text-align: center;
+
+}
+
